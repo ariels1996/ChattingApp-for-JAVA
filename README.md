@@ -4,4 +4,4 @@ Multi-Client Server chat application using java swing for Network error toleranc
 
 I used, intelliJ for build this program.
 
-For networking, you have to find and change the ip config. 
+you should change the ip comfig for open chatting server.
